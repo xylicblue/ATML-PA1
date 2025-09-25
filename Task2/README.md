@@ -20,7 +20,7 @@ This project explores and compares two prominent generative models, a Generative
 - [Latent Space Analysis](#latent-space-analysis)
 
 ## Models
-
+get the final_vae.pth model from https://drive.google.com/file/d/1nrX-ZJvM0fTIsoO6ZLnE4NZffhybqzsj/view?usp=drive_link
 ### Generative Adversarial Network (GAN)
 
 - **Why we use it**: GANs are known for producing sharp, high-fidelity images. Their adversarial training process pushes the generator to create increasingly realistic outputs.  
